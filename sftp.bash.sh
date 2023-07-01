@@ -18,4 +18,3 @@ chown darthsftp. -R /home/darthsftp/.ssh
 chown root:root /home/darthsftp
 chmod 755 /home/darthsftp
 sftp -P -i /home/darthsftp/.ssh/darthsftp darthsftp@127.0.0.1
-
