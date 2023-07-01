@@ -19,4 +19,3 @@ chown root:root /home/darthsftp
 chmod 755 /home/darthsftp
 sftp -P -i /home/darthsftp/.ssh/darthsftp darthsftp@127.0.0.1
 
-#This is a test to write these changes to main branch for the 2nd time
