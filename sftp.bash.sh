@@ -18,5 +18,3 @@ chown darthsftp. -R /home/darthsftp/.ssh
 chown root:root /home/darthsftp
 chmod 755 /home/darthsftp
 sftp -P -i /home/darthsftp/.ssh/darthsftp darthsftp@127.0.0.1
-
-#With this test I will try to commit it to the main branch
